@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1481565183 source:f:\demographics\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1482763980 source:c:\users\azgar\desktop\demographics\main.cpp
+	<iostream>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+
